@@ -8,7 +8,7 @@ require (
 	github.com/apparentlymart/go-cidr v1.1.0
 	github.com/aws/amazon-vpc-cni-k8s v1.7.10
 	github.com/aws/aws-lambda-go v1.24.0
-	github.com/aws/aws-sdk-go v1.38.57
+	github.com/aws/aws-sdk-go v1.39.5
 	github.com/awslabs/goformation/v4 v4.19.4
 	github.com/blang/semver v3.5.1+incompatible
 	github.com/go-logr/logr v0.4.0
@@ -26,7 +26,7 @@ require (
 	github.com/spf13/jwalterweatherman v1.1.0 // indirect
 	github.com/spf13/pflag v1.0.5
 	golang.org/x/crypto v0.0.0-20210513164829-c07d793c2f9a
-	golang.org/x/net v0.0.0-20210525063256-abc453219eb5
+	golang.org/x/net v0.0.0-20210614182718-04defd469f4e
 	gopkg.in/yaml.v2 v2.4.0
 	k8s.io/api v0.21.1
 	k8s.io/apiextensions-apiserver v0.21.1
